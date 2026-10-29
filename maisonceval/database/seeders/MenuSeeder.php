@@ -12,6 +12,10 @@ class MenuSeeder extends Seeder
      */
     public function run(): void
     {
-        //
+        // Menu::create([
+        //     'name' => "",
+        //     'price' => "",
+        //     'description' => ""
+        // ]);
     }
 }

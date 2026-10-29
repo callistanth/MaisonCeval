@@ -12,6 +12,10 @@ class ContactSeeder extends Seeder
      */
     public function run(): void
     {
-        //
+        // Contact::create([
+        //     'instagram' => "",
+        //     'email' => "",
+        //     'phoneNumber' => ""
+        // ]);
     }
 }

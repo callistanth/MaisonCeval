@@ -12,6 +12,20 @@ class CategorySeeder extends Seeder
      */
     public function run(): void
     {
-        //
+        // Category::create([
+        //     'name' => "Catalog"
+        // ]);
+
+        // Category::create([
+        //     'name' => "Christmas Catalog"
+        // ]);
+
+        // Category::create([
+        //     'name' => "Chinesse New Year Catalog"
+        // ]);
+        
+        // Category::create([
+        //     'name' => "EID Mubarak Catalog"
+        // ]);
     }
 }
